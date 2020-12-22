@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_london">
+
+    <fragment
+        android:id="@+id/nav_london"
+        android:name="com.christian_gonzalez.tourguide.ui.london.LondonFragment"
+        android:label="@string/menu_london"
+        tools:layout="@layout/category_main" />
+
+    <fragment
+        android:id="@+id/nav_madrid"
+        android:name="com.christian_gonzalez.tourguide.ui.madrid.MadridFragment"
+        android:label="@string/menu_madrid"
+        tools:layout="@layout/category_main" />
+
+    <fragment
+        android:id="@+id/nav_barcelona"
+        android:name="com.christian_gonzalez.tourguide.ui.barcelona.BarcelonaFragment"
+        android:label="@string/menu_barcelona"
+        tools:layout="@layout/category_main" />
+</navigation>
