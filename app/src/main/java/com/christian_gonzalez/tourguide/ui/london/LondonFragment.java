@@ -27,7 +27,6 @@ public class LondonFragment extends Fragment {
 
         TabLayout tabLayout = root.findViewById(R.id.tabs);
         tabLayout.setupWithViewPager(viewPager);
-
         return root;
     }
 }

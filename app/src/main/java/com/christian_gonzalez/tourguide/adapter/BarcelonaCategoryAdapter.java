@@ -44,6 +44,8 @@ public class BarcelonaCategoryAdapter extends FragmentPagerAdapter {
         return 4;
     }
 
+
+
     @Nullable
     @Override
     public CharSequence getPageTitle(int position) {

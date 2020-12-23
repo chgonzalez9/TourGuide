@@ -4,4 +4,5 @@
     android:id="@+id/list"
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
-    android:dividerHeight="4dp"/>
+    android:padding="@dimen/card_padding"
+    android:dividerHeight="@dimen/nav_header_vertical_spacing"/>

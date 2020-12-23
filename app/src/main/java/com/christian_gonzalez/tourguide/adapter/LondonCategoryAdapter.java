@@ -13,10 +13,12 @@ import com.christian_gonzalez.tourguide.ui.london.category.LondonHotelFragment;
 import com.christian_gonzalez.tourguide.ui.london.category.LondonMonumentFragment;
 import com.christian_gonzalez.tourguide.ui.london.category.LondonMuseumFragment;
 import com.christian_gonzalez.tourguide.ui.london.category.LondonRestaurantFragment;
+import com.google.android.material.tabs.TabLayout;
 
 public class LondonCategoryAdapter extends FragmentPagerAdapter {
 
     private final Context mContext;
+    private TabLayout tabLayout;
 
     public LondonCategoryAdapter(Context context, FragmentManager fm) {
         super(fm);
@@ -42,6 +44,10 @@ public class LondonCategoryAdapter extends FragmentPagerAdapter {
     @Override
     public int getCount() {
         return 4;
+    }
+
+    private void setupTabIcons() {
+        tabLayout.getTabAt(0).setIcon(R.drawable.hotel);
     }
 
     @Nullable
