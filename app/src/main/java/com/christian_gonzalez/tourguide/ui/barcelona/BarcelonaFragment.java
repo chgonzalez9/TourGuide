@@ -14,6 +14,8 @@ import com.christian_gonzalez.tourguide.R;
 import com.christian_gonzalez.tourguide.adapter.BarcelonaCategoryAdapter;
 import com.google.android.material.tabs.TabLayout;
 
+import java.util.Objects;
+
 public class BarcelonaFragment extends Fragment {
 
     @Override
@@ -32,6 +34,12 @@ public class BarcelonaFragment extends Fragment {
 
         TabLayout tabLayout = root.findViewById(R.id.tabs);
         tabLayout.setupWithViewPager(viewPager);
+
+        tabLayout.setupWithViewPager(viewPager);
+        Objects.requireNonNull(tabLayout.getTabAt(0)).setIcon(R.drawable.hotel);
+        Objects.requireNonNull(tabLayout.getTabAt(1)).setIcon(R.drawable.restaurant);
+        Objects.requireNonNull(tabLayout.getTabAt(2)).setIcon(R.drawable.museo);
+        Objects.requireNonNull(tabLayout.getTabAt(3)).setIcon(R.drawable.monuments);
 
         return root;
     }

@@ -8,7 +8,6 @@ import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentPagerAdapter;
 
-import com.christian_gonzalez.tourguide.R;
 import com.christian_gonzalez.tourguide.ui.barcelona.category.BarcelonaHotelFragment;
 import com.christian_gonzalez.tourguide.ui.barcelona.category.BarcelonaMonumentFragment;
 import com.christian_gonzalez.tourguide.ui.barcelona.category.BarcelonaMuseumFragment;
@@ -49,16 +48,7 @@ public class BarcelonaCategoryAdapter extends FragmentPagerAdapter {
     @Nullable
     @Override
     public CharSequence getPageTitle(int position) {
-        if (position == 0) {
-            return mContext.getString(R.string.category_hotel);
-        } else if (position == 1) {
-            return mContext.getString(R.string.category_restaurant);
-        } else if (position == 2) {
-            return mContext.getString(R.string.category_museum);
-        } else {
-            return mContext.getString(R.string.category_monument);
-        }
-
+        return null;
     }
 
 }
