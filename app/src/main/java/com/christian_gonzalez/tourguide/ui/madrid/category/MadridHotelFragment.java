@@ -4,10 +4,15 @@ import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ListView;
 
 import androidx.fragment.app.Fragment;
 
 import com.christian_gonzalez.tourguide.R;
+import com.christian_gonzalez.tourguide.adapter.WordAdapter;
+import com.christian_gonzalez.tourguide.utils.Words;
+
+import java.util.ArrayList;
 
 public class MadridHotelFragment extends Fragment {
 
@@ -24,6 +29,15 @@ public class MadridHotelFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.category_list, container, false);
+        View rootView = inflater.inflate(R.layout.category_list, container, false);
+
+        ArrayList<Words> hotel = new ArrayList<>();
+
+        WordAdapter listAdapter = new WordAdapter(getActivity(), hotel);
+
+        ListView listView = rootView.findViewById(R.id.list);
+        listView.setAdapter(listAdapter);
+
+        return rootView;
     }
 }

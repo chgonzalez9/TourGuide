@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="menu_london">Londres</string>
+    <string name="menu_madrid">Madrid</string>
+    <string name="menu_barcelona">Barcelona</string>
+    <string name="category_hotel">Hoteles</string>
+    <string name="category_monument">Monumentos</string>
+    <string name="category_museum">Museos</string>
+    <string name="category_restaurant">Restaurantes</string>
+
+    <string name="london_hotel_1_description">Zona acomodada con arte decorativo en el Museo de Victoria y Alberto, Harrods y restaurantes de lujo.</string>
+    <string name="london_hotel_2_description">Este hotel de lujo que ocupa las plantas 34 a 52 del emblemático edificio Shard del arquitecto Renzo Piano se encuentra a 2 minutos a pie de la estación de tren y de metro de London Bridge y a 1,6 km de la Torre de Londres.</string>
+    <string name="london_hotel_3_description">Barrio junto al río con el teatro The Old Vic, la noria London Eye y una animada vida nocturna.</string>
+    <string name="london_hotel_4_description">Este hotel de moda, situado junto a la Leicester Square en el dinámico West End, cuenta con una fachada de cristal ultramoderna y se encuentra a menos de 5 minutos a pie del metro, de Piccadilly Circus y de la National Gallery.</string>
+</resources>

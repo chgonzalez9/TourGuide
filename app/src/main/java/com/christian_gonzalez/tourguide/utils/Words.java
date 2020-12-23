@@ -4,31 +4,26 @@ import android.graphics.drawable.Drawable;
 
 public class Words {
 
-    private String mTittle;
-    private String mDescription;
-    private Drawable mItemIcon;
-    private int mItemLocation;
+    private int mTittle;
+    private int mDescription;
+    private int mItemIcon;
 
-    public Words(String Tittle, String Description, Drawable ItemIcon, int ItemLocation) {
+    public Words(int Tittle, int Description, int ItemIcon) {
         mTittle = Tittle;
         mDescription = Description;
         mItemIcon = ItemIcon;
-        mItemLocation = ItemLocation;
     }
 
-    public String getDefaultTittle() {
+    public int getDefaultTittle() {
         return mTittle;
     }
 
-    public String getDefaultDescription() {
+    public int getDefaultDescription() {
         return mDescription;
     }
 
-    public Drawable getDefaultItemIcon() {
+    public int getDefaultItemIcon() {
         return mItemIcon;
     }
 
-    public int getDefaultItemLocation() {
-        return mItemLocation;
-    }
 }

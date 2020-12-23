@@ -32,6 +32,10 @@ public class LondonHotelFragment extends Fragment {
         View rootView = inflater.inflate(R.layout.category_list, container, false);
 
         ArrayList<Words> hotel = new ArrayList<>();
+        hotel.add(new Words(R.string.london_hotel_1_name, R.string.london_hotel_1_description, R.drawable.mandarin));
+        hotel.add(new Words(R.string.london_hotel_2_name, R.string.london_hotel_2_description, R.drawable.shangri_la));
+        hotel.add(new Words(R.string.london_hotel_3_name, R.string.london_hotel_3_description, R.drawable.marriot));
+        hotel.add(new Words(R.string.london_hotel_4_name, R.string.london_hotel_4_description, R.drawable.w_london));
 
         WordAdapter listAdapter = new WordAdapter(getActivity(), hotel);
 

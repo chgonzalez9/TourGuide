@@ -35,10 +35,13 @@ public class WordAdapter extends ArrayAdapter<Words> {
         Words currentWord = getItem(position);
 
         ImageView icon = (ImageView) listItemView.findViewById(R.id.item_icon);
-        icon.setBackground(currentWord.getDefaultItemIcon());
+        icon.setImageResource(currentWord.getDefaultItemIcon());
 
         TextView tittle = (TextView) listItemView.findViewById(R.id.item_name);
         tittle.setText(currentWord.getDefaultTittle());
+
+        TextView description = (TextView) listItemView.findViewById(R.id.item_description);
+        description.setText(currentWord.getDefaultDescription());
 
 
         return listItemView;

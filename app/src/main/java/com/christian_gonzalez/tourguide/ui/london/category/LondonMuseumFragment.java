@@ -31,9 +31,9 @@ public class LondonMuseumFragment extends Fragment {
         // Inflate the layout for this fragment
         View rootView = inflater.inflate(R.layout.category_list, container, false);
 
-        ArrayList<Words> hotel = new ArrayList<>();
+        ArrayList<Words> museum = new ArrayList<>();
 
-        WordAdapter listAdapter = new WordAdapter(getActivity(), hotel);
+        WordAdapter listAdapter = new WordAdapter(getActivity(), museum);
 
         ListView listView = rootView.findViewById(R.id.list);
         listView.setAdapter(listAdapter);

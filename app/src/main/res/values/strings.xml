@@ -1,11 +1,11 @@
 <resources>
     <string name="app_name">Tour Guide</string>
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">Android Studio</string>
-    <string name="nav_header_subtitle">android.studio@android.com</string>
-    <string name="nav_header_desc">Navigation header</string>
-    <string name="action_settings">Settings</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false">Android Studio</string>
+    <string name="nav_header_subtitle" translatable="false">android.studio@android.com</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="action_settings" translatable="false">Settings</string>
 
     <string name="menu_london">London</string>
     <string name="menu_madrid">Madrid</string>
@@ -15,9 +15,14 @@
     <string name="category_museum">Museums</string>
     <string name="category_restaurant">Restaurants</string>
 
-    <string name="hotel_1_name">Mandarin Oriental Hyde Park</string>
-    <string name="hotel_1_description">Well-off area with decorative art at the Victoria and Albert Museum, Harrods and fancy restaurants.</string>
-    <string name="hotel_2_name">Shangri-La Hotel at The Shard</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="london_hotel_1_name" translatable="false">Mandarin Oriental Hyde Park</string>
+    <string name="london_hotel_1_description">Well-off area with decorative art at the Victoria and Albert Museum, Harrods and fancy restaurants.</string>
+    <string name="london_hotel_2_name" translatable="false">Shangri-La Hotel at The Shard</string>
+    <string name="london_hotel_2_description">Located on floors 34 and 52 of the iconic Shard building by architect Renzo Piano, this luxury hotel is 2 minutes walk from London Bridge Rail and Tube Station and 1 mile from the Tower of London.</string>
+    <string name="london_hotel_3_name" translatable="false">London Marriott Hotel County Hall</string>
+    <string name="london_hotel_3_description">A riverside neighborhood with The Old Vic theater, the London Eye and a lively nightlife.</string>
+    <string name="london_hotel_4_name" translatable="false">W London</string>
+    <string name="london_hotel_4_description">Located off Leicester Square in the vibrant West End, this trendy hotel features an ultra-modern glass front and is less than 5 minutes walk from the Tube, Piccadilly Circus and the National Gallery.</string>
+
+
 </resources>
