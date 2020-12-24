@@ -24,5 +24,125 @@
     <string name="london_hotel_4_name" translatable="false">W London</string>
     <string name="london_hotel_4_description">Located off Leicester Square in the vibrant West End, this trendy hotel features an ultra-modern glass front and is less than 5 minutes walk from the Tube, Piccadilly Circus and the National Gallery.</string>
 
+    <string name="london_restaurant_1_name" translatable="false">La Dame de Pic</string>
+    <string name="london_restaurant_1_description">French food \n Four Seasons Hotel at Ten, 10 Trinity Square, Tower, London EC3N 4AJ</string>
+    <string name="london_restaurant_2_name" translatable="false">Ottos French Restaurant</string>
+    <string name="london_restaurant_2_description">French food \n 182 Grays Inn Rd, Holborn, London WC1X 8EW</string>
+    <string name="london_restaurant_3_name" translatable="false">Savoy Grill</string>
+    <string name="london_restaurant_3_description">Modern European food \n Strand, London WC2R 0EU</string>
+    <string name="london_restaurant_4_name" translatable="false">Bread Street Kitchen</string>
+    <string name="london_restaurant_4_description">Modern European food \n First Floor, One, 10 New Change, Bread St, London EC4M 9AJ</string>
+    <string name="london_restaurant_5_name" translatable="false">ROKA Charlotte Street</string>
+    <string name="london_restaurant_5_description">Japaneses food \n 37 Charlotte St, Fitzrovia, London W1T 1RR</string>
+
+    <string name="london_museum_1_name" translatable="false">The British Museum</string>
+    <string name="london_museum_1_description" translatable="false">Great Russell St, Bloomsbury, London WC1B 3DG</string>
+    <string name="london_museum_2_name" translatable="false">The National Gallery</string>
+    <string name="london_museum_2_description" translatable="false">Trafalgar Square, Charing Cross, London WC2N 5DN</string>
+    <string name="london_museum_3_name" translatable="false">Design Museum</string>
+    <string name="london_museum_3_description" translatable="false">224–238 Kensington High St, Kensington, London W8 6AG</string>
+    <string name="london_museum_4_name" translatable="false">Churchill War Rooms</string>
+    <string name="london_museum_4_description" translatable="false">Clive Steps, King Charles St, London SW1A 2AQ</string>
+    <string name="london_museum_5_name" translatable="false">Charles Dickens Museum</string>
+    <string name="london_museum_5_description" translatable="false">48–49 Doughty St, Holborn, London WC1N 2LX</string>
+
+    <string name="london_monuments_1_name" translatable="false">London Eye</string>
+    <string name="london_monuments_1_description" translatable="false">Riverside Building, County Hall, Bishops, London SE1 7PB</string>
+    <string name="london_monuments_2_name" translatable="false">Palace of Westminster</string>
+    <string name="london_monuments_2_description" translatable="false">Westminster, London SW1A 0AA</string>
+    <string name="london_monuments_3_name" translatable="false">Tower of London</string>
+    <string name="london_monuments_3_description" translatable="false">St Katharines and Wapping, London EC3N 4AB</string>
+    <string name="london_monuments_4_name" translatable="false">Big Ben</string>
+    <string name="london_monuments_4_description" translatable="false">Westminster, London SW1A 0AA</string>
+    <string name="london_monuments_5_name" translatable="false">Buckingham Palace</string>
+    <string name="london_monuments_5_description" translatable="false">Westminster, London SW1A 1AA</string>
+
+    <string name="madrid_hotel_1_name"></string>
+    <string name="madrid_hotel_1_description"></string>
+    <string name="madrid_hotel_2_name"></string>
+    <string name="madrid_hotel_2_description"></string>
+    <string name="madrid_hotel_3_name"></string>
+    <string name="madrid_hotel_3_description"></string>
+    <string name="madrid_hotel_4_name"></string>
+    <string name="madrid_hotel_4_description"></string>
+    <string name="madrid_hotel_5_name"></string>
+    <string name="madrid_hotel_5_description"></string>
+
+    <string name="madrid_restaurant_1_name"></string>
+    <string name="madrid_restaurant_1_description"></string>
+    <string name="madrid_restaurant_2_name"></string>
+    <string name="madrid_restaurant_2_description"></string>
+    <string name="madrid_restaurant_3_name"></string>
+    <string name="madrid_restaurant_3_description"></string>
+    <string name="madrid_restaurant_4_name"></string>
+    <string name="madrid_restaurant_4_description"></string>
+    <string name="madrid_restaurant_5_name"></string>
+    <string name="madrid_restaurant_5_description"></string>
+
+    <string name="madrid_museum_1_name"></string>
+    <string name="madrid_museum_1_description"></string>
+    <string name="madrid_museum_2_name"></string>
+    <string name="madrid_museum_2_description"></string>
+    <string name="madrid_museum_3_name"></string>
+    <string name="madrid_museum_3_description"></string>
+    <string name="madrid_museum_4_name"></string>
+    <string name="madrid_museum_4_description"></string>
+    <string name="madrid_museum_5_name"></string>
+    <string name="madrid_museum_5_description"></string>
+
+    <string name="madrid_monument_1_name"></string>
+    <string name="madrid_monument_1_description"></string>
+    <string name="madrid_monument_2_name"></string>
+    <string name="madrid_monument_2_description"></string>
+    <string name="madrid_monument_3_name"></string>
+    <string name="madrid_monument_3_description"></string>
+    <string name="madrid_monument_4_name"></string>
+    <string name="madrid_monument_4_description"></string>
+    <string name="madrid_monument_5_name"></string>
+    <string name="madrid_monument_5_description"></string>
+
+    <string name="barcelona_hotel_1_name"></string>
+    <string name="barcelona_hotel_1_description"></string>
+    <string name="barcelona_hotel_2_name"></string>
+    <string name="barcelona_hotel_2_description"></string>
+    <string name="barcelona_hotel_3_name"></string>
+    <string name="barcelona_hotel_3_description"></string>
+    <string name="barcelona_hotel_4_name"></string>
+    <string name="barcelona_hotel_4_description"></string>
+    <string name="barcelona_hotel_5_name"></string>
+    <string name="barcelona_hotel_5_description"></string>
+
+    <string name="barcelona_restaurant_1_name"></string>
+    <string name="barcelona_restaurant_1_description"></string>
+    <string name="barcelona_restaurant_2_name"></string>
+    <string name="barcelona_restaurant_2_description"></string>
+    <string name="barcelona_restaurant_3_name"></string>
+    <string name="barcelona_restaurant_3_description"></string>
+    <string name="barcelona_restaurant_4_name"></string>
+    <string name="barcelona_restaurant_4_description"></string>
+    <string name="barcelona_restaurant_5_name"></string>
+    <string name="barcelona_restaurant_5_description"></string>
+
+    <string name="barcelona_museum_1_name"></string>
+    <string name="barcelona_museum_1_description"></string>
+    <string name="barcelona_museum_2_name"></string>
+    <string name="barcelona_museum_2_description"></string>
+    <string name="barcelona_museum_3_name"></string>
+    <string name="barcelona_museum_3_description"></string>
+    <string name="barcelona_museum_4_name"></string>
+    <string name="barcelona_museum_4_description"></string>
+    <string name="barcelona_museum_5_name"></string>
+    <string name="barcelona_museum_5_description"></string>
+
+    <string name="barcelona_monument_1_name"></string>
+    <string name="barcelona_monument_1_description"></string>
+    <string name="barcelona_monument_2_name"></string>
+    <string name="barcelona_monument_2_description"></string>
+    <string name="barcelona_monument_3_name"></string>
+    <string name="barcelona_monument_3_description"></string>
+    <string name="barcelona_monument_4_name"></string>
+    <string name="barcelona_monument_4_description"></string>
+    <string name="barcelona_monument_5_name"></string>
+    <string name="barcelona_monument_5_description"></string>
 
 </resources>

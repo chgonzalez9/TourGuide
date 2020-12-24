@@ -13,4 +13,9 @@
     <string name="london_hotel_2_description">Este hotel de lujo que ocupa las plantas 34 a 52 del emblemático edificio Shard del arquitecto Renzo Piano se encuentra a 2 minutos a pie de la estación de tren y de metro de London Bridge y a 1,6 km de la Torre de Londres.</string>
     <string name="london_hotel_3_description">Barrio junto al río con el teatro The Old Vic, la noria London Eye y una animada vida nocturna.</string>
     <string name="london_hotel_4_description">Este hotel de moda, situado junto a la Leicester Square en el dinámico West End, cuenta con una fachada de cristal ultramoderna y se encuentra a menos de 5 minutos a pie del metro, de Piccadilly Circus y de la National Gallery.</string>
+    <string name="london_restaurant_1_description">Cocina Francesa \\n Four Seasons Hotel at Ten, 10 Trinity Square, Tower, London EC3N 4AJ</string>
+    <string name="london_restaurant_2_description">Cocina Francesa \\n 182 Grays Inn Rd, Holborn, London WC1X 8EW</string>
+    <string name="london_restaurant_3_description">Cocina Moderna Europea \\n Strand, London WC2R 0EU</string>
+    <string name="london_restaurant_4_description">Cocina Moderna Europea \\n First Floor, One, 10 New Change, Bread St, London EC4M 9AJ</string>
+    <string name="london_restaurant_5_description">Cocina Japonesa \\n 37 Charlotte St, Fitzrovia, London W1T 1RR</string>
 </resources>

@@ -32,6 +32,11 @@ public class LondonMonumentFragment extends Fragment {
         View rootView = inflater.inflate(R.layout.category_list, container, false);
 
         ArrayList<Words> monument = new ArrayList<>();
+        monument.add(new Words(R.string.london_monuments_1_name, R.string.london_monuments_1_description, R.drawable.london_eye));
+        monument.add(new Words(R.string.london_monuments_2_name, R.string.london_monuments_2_description, R.drawable.palacio_westminster));
+        monument.add(new Words(R.string.london_monuments_3_name, R.string.london_monuments_3_description, R.drawable.tower_of_london));
+        monument.add(new Words(R.string.london_monuments_4_name, R.string.london_monuments_4_description, R.drawable.big_ben));
+        monument.add(new Words(R.string.london_monuments_5_name, R.string.london_monuments_5_description, R.drawable.buckingham_palace));
 
         WordAdapter listAdapter = new WordAdapter(getActivity(), monument);
 
