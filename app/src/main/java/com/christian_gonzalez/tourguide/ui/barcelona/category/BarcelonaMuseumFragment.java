@@ -32,6 +32,11 @@ public class BarcelonaMuseumFragment extends Fragment {
         View rootView = inflater.inflate(R.layout.category_list, container, false);
 
         ArrayList<Words> museum = new ArrayList<>();
+        museum.add(new Words(R.string.barcelona_museum_1_name, R.string.barcelona_museum_1_description, R.drawable.museo_art_bcn));
+        museum.add(new Words(R.string.barcelona_museum_2_name, R.string.barcelona_museum_2_description, R.drawable.museo_picasso));
+        museum.add(new Words(R.string.barcelona_museum_3_name, R.string.barcelona_museum_3_description, R.drawable.museu_maritim_barcelona));
+        museum.add(new Words(R.string.barcelona_museum_4_name, R.string.barcelona_museum_4_description, R.drawable.mila_bcn));
+        museum.add(new Words(R.string.barcelona_museum_5_name, R.string.barcelona_museum_5_description, R.drawable.modern_art_bcn));
 
         WordAdapter listAdapter = new WordAdapter(getActivity(), museum);
 

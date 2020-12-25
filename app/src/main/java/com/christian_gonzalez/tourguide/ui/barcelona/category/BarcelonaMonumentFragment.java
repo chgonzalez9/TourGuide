@@ -32,6 +32,11 @@ public class BarcelonaMonumentFragment extends Fragment {
         View rootView = inflater.inflate(R.layout.category_list, container, false);
 
         ArrayList<Words> monument = new ArrayList<>();
+        monument.add(new Words(R.string.barcelona_monument_1_name, R.string.barcelona_monument_1_description, R.drawable.sagrada_familia_bcn_monument));
+        monument.add(new Words(R.string.barcelona_monument_2_name, R.string.barcelona_monument_2_description, R.drawable.montjuic_barcelona));
+        monument.add(new Words(R.string.barcelona_monument_3_name, R.string.barcelona_monument_3_description, R.drawable.colon_bcn));
+        monument.add(new Words(R.string.barcelona_monument_4_name, R.string.barcelona_monument_4_description, R.drawable.arco_del_triunfo));
+        monument.add(new Words(R.string.barcelona_monument_5_name, R.string.barcelona_monument_5_description, R.drawable.torres_venecianes_barcelona));
 
         WordAdapter listAdapter = new WordAdapter(getActivity(), monument);
 

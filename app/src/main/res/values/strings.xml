@@ -101,48 +101,48 @@
     <string name="madrid_monument_5_name">Royal Palace of Madrid</string>
     <string name="madrid_monument_5_description" translatable="false">Calle de Bailén, s/n, 28071</string>
 
-    <string name="barcelona_hotel_1_name"></string>
-    <string name="barcelona_hotel_1_description"></string>
-    <string name="barcelona_hotel_2_name"></string>
-    <string name="barcelona_hotel_2_description"></string>
-    <string name="barcelona_hotel_3_name"></string>
-    <string name="barcelona_hotel_3_description"></string>
-    <string name="barcelona_hotel_4_name"></string>
-    <string name="barcelona_hotel_4_description"></string>
-    <string name="barcelona_hotel_5_name"></string>
-    <string name="barcelona_hotel_5_description"></string>
+    <string name="barcelona_hotel_1_name" translatable="false">Ohla</string>
+    <string name="barcelona_hotel_1_description">Old medieval center with La Ramblas street-food stalls, artisan leather shops and Catalan eateries.</string>
+    <string name="barcelona_hotel_2_name" translatable="false">Mandarin Oriental, Barcelona</string>
+    <string name="barcelona_hotel_2_description">Elegant area with posh restaurants and designer stores, plus Gaudís La Sagrada Familia and Casa Batlló.</string>
+    <string name="barcelona_hotel_3_name" translatable="false">Hotel Arts</string>
+    <string name="barcelona_hotel_3_description">Seaside area known for Sant Sebastià Beach, waterfront seafood restaurants and swanky marinas.</string>
+    <string name="barcelona_hotel_4_name" translatable="false">Hotel Miramar</string>
+    <string name="barcelona_hotel_4_description">Pine-covered hill district with Montjuïc Castle offering panoramic views, plus Joan Miró Foundation.</string>
+    <string name="barcelona_hotel_5_name" translatable="false">W Barcelona</string>
+    <string name="barcelona_hotel_5_description">Seaside area known for Sant Sebastià Beach, waterfront seafood restaurants and swanky marinas.</string>
 
-    <string name="barcelona_restaurant_1_name"></string>
-    <string name="barcelona_restaurant_1_description"></string>
-    <string name="barcelona_restaurant_2_name"></string>
-    <string name="barcelona_restaurant_2_description"></string>
-    <string name="barcelona_restaurant_3_name"></string>
-    <string name="barcelona_restaurant_3_description"></string>
-    <string name="barcelona_restaurant_4_name"></string>
-    <string name="barcelona_restaurant_4_description"></string>
-    <string name="barcelona_restaurant_5_name"></string>
-    <string name="barcelona_restaurant_5_description"></string>
+    <string name="barcelona_restaurant_1_name" translatable="false">Enigma</string>
+    <string name="barcelona_restaurant_1_description">Fine dining restaurant \n Carrer de Sepúlveda, 38, 40, 08015</string>
+    <string name="barcelona_restaurant_2_name" translatable="false">Terraza Martínez</string>
+    <string name="barcelona_restaurant_2_description">Mediterranean food \n Ctra. de Miramar, 38, 08038</string>
+    <string name="barcelona_restaurant_3_name" translatable="false">Moments</string>
+    <string name="barcelona_restaurant_3_description">Catalonian restaurant \n Passeig de Gràcia, 38, 40, 08007</string>
+    <string name="barcelona_restaurant_4_name" translatable="false">Tickets</string>
+    <string name="barcelona_restaurant_4_description">Fine dining restaurant \n Av. del Paral·lel, 164, 08015</string>
+    <string name="barcelona_restaurant_5_name" translatable="false">Disfrutar</string>
+    <string name="barcelona_restaurant_5_description">Fine dining restaurant \n C. de Villarroel, 163, 08036</string>
 
-    <string name="barcelona_museum_1_name"></string>
-    <string name="barcelona_museum_1_description"></string>
-    <string name="barcelona_museum_2_name"></string>
-    <string name="barcelona_museum_2_description"></string>
-    <string name="barcelona_museum_3_name"></string>
-    <string name="barcelona_museum_3_description"></string>
-    <string name="barcelona_museum_4_name"></string>
-    <string name="barcelona_museum_4_description"></string>
-    <string name="barcelona_museum_5_name"></string>
-    <string name="barcelona_museum_5_description"></string>
+    <string name="barcelona_museum_1_name" translatable="false">Museu Nacional d’Art de Catalunya</string>
+    <string name="barcelona_museum_1_description" translatable="false">Palau Nacional, Parc de Montjuïc, s/n, 08038</string>
+    <string name="barcelona_museum_2_name">Picasso Museum</string>
+    <string name="barcelona_museum_2_description" translatable="false">Carrer de Montcada, 15–23, 08003</string>
+    <string name="barcelona_museum_3_name">Maritime Museum</string>
+    <string name="barcelona_museum_3_description">A 2-min walk from the Columbus Monument \n Av. de les Drassanes, s/n, 08001</string>
+    <string name="barcelona_museum_4_name" translatable="false">La Pedrera-Casa Milà</string>
+    <string name="barcelona_museum_4_description" translatable="false">Passeig de Gràcia, 92, 08008</string>
+    <string name="barcelona_museum_5_name">European Museum of Modern Art</string>
+    <string name="barcelona_museum_5_description">A 1-min walk from the Museu Picasso \n Carrer de la Barra de Ferro, 5, 08003</string>
 
-    <string name="barcelona_monument_1_name"></string>
-    <string name="barcelona_monument_1_description"></string>
-    <string name="barcelona_monument_2_name"></string>
-    <string name="barcelona_monument_2_description"></string>
-    <string name="barcelona_monument_3_name"></string>
-    <string name="barcelona_monument_3_description"></string>
-    <string name="barcelona_monument_4_name"></string>
-    <string name="barcelona_monument_4_description"></string>
-    <string name="barcelona_monument_5_name"></string>
-    <string name="barcelona_monument_5_description"></string>
+    <string name="barcelona_monument_1_name" translatable="false">Basílica de la Sagrada Família</string>
+    <string name="barcelona_monument_1_description" translatable="false">Carrer de Mallorca, 401, 08013</string>
+    <string name="barcelona_monument_2_name" translatable="false">Montjuïc</string>
+    <string name="barcelona_monument_2_description">Montjuïc is a hill in Barcelona</string>
+    <string name="barcelona_monument_3_name">Columbus Monument</string>
+    <string name="barcelona_monument_3_description" translatable="false">Plaça Portal de la pau, s/n, 08001</string>
+    <string name="barcelona_monument_4_name" translatable="false">Arco de Triunfo de Barcelona</string>
+    <string name="barcelona_monument_4_description" translatable="false">Passeig de Lluís Companys, 08003</string>
+    <string name="barcelona_monument_5_name" translatable="false">Torres Venecianes</string>
+    <string name="barcelona_monument_5_description" translatable="false">Avinguda de la Reina Maria Cristina, 08004</string>
 
 </resources>

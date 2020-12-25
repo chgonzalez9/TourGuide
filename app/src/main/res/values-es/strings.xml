@@ -27,4 +27,21 @@
     <string name="madrid_monument_5_name">Palacio Real de Madrid</string>
     <string name="madrid_museum_5_name">Casa-Museo de Lope de Vega</string>
     <string name="madrid_museum_2_name">Museo Nacional Thyssen-Bornemisza</string>
+    <string name="barcelona_hotel_1_description">Casco antiguo medieval con los puestos de La Rambla, talleres de cuero y restaurantes catalanes.</string>
+    <string name="barcelona_hotel_2_description">Zona con restaurantes, tiendas de lujo y edificios de Gaudí como la Sagrada Familia y la casa Batlló.</string>
+    <string name="barcelona_hotel_3_description">Zona costera famosa por la playa de Sant Sebastià, las marisquerías frente al mar y los puertos deportivos.</string>
+    <string name="barcelona_hotel_4_description">Barrio sobre una colina de pinares con el castillo homónimo, vistas panorámicas y la Fundación Joan Miró.</string>
+    <string name="barcelona_hotel_5_description">Zona costera famosa por la playa de Sant Sebastià, las marisquerías frente al mar y los puertos deportivos.</string>
+    <string name="barcelona_restaurant_3_description">Restaurante de cocina catalana \\n Passeig de Gràcia, 38, 40, 08007</string>
+    <string name="barcelona_restaurant_1_description">Restaurante de alta cocina \\n Carrer de Sepúlveda, 38, 40, 08015</string>
+    <string name="barcelona_restaurant_5_description">Restaurante de alta cocina \\n C. de Villarroel, 163, 08036</string>
+    <string name="barcelona_restaurant_4_description">Restaurante de alta cocina \\n del Paral·lel, 164, 08015</string>
+    <string name="barcelona_restaurant_2_description">Cocina Mediterranea \\n Ctra. de Miramar, 38, 08038</string>
+    <string name="barcelona_monument_2_description">Montjuic es una montaña de Barcelona</string>
+    <string name="barcelona_monument_3_name">Monumento a Colon</string>
+    <string name="barcelona_museum_3_description">A 2 min andando desde la estatua de Colon \\n Av. de les Drassanes, s/n, 08001</string>
+    <string name="barcelona_museum_3_name">Museo Maritimo</string>
+    <string name="barcelona_museum_2_name">Museo Picasso</string>
+    <string name="barcelona_museum_5_name">Museo Europeo de Arte Moderno</string>
+    <string name="barcelona_museum_5_description">A 1 min andando desde el museo Picasso \\n Carrer de la Barra de Ferro, 5, 08003</string>
 </resources>

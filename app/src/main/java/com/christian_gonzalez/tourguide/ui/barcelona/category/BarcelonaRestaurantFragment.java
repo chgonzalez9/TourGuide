@@ -34,6 +34,11 @@ public class BarcelonaRestaurantFragment extends Fragment {
         View rootView = inflater.inflate(R.layout.category_list, container, false);
 
         ArrayList<Words> restaurant = new ArrayList<>();
+        restaurant.add(new Words(R.string.barcelona_restaurant_1_name, R.string.barcelona_restaurant_1_description, R.drawable.enigma_barcelona));
+        restaurant.add(new Words(R.string.barcelona_restaurant_2_name, R.string.barcelona_restaurant_2_description, R.drawable.martinez_bcn));
+        restaurant.add(new Words(R.string.barcelona_restaurant_3_name, R.string.barcelona_restaurant_3_description, R.drawable.moments_bcn));
+        restaurant.add(new Words(R.string.barcelona_restaurant_4_name, R.string.barcelona_restaurant_4_description, R.drawable.tickets_bcn));
+        restaurant.add(new Words(R.string.barcelona_restaurant_5_name, R.string.barcelona_restaurant_5_description, R.drawable.disfrutar_bcn));
 
         WordAdapter listAdapter = new WordAdapter(getActivity(), restaurant);
 

@@ -32,6 +32,11 @@ public class BarcelonaHotelFragment extends Fragment {
         View rootView = inflater.inflate(R.layout.category_list, container, false);
 
         ArrayList<Words> hotel = new ArrayList<>();
+        hotel.add(new Words(R.string.barcelona_hotel_1_name, R.string.barcelona_hotel_1_description, R.drawable.hotel_ohla_barcelona));
+        hotel.add(new Words(R.string.barcelona_hotel_2_name, R.string.barcelona_hotel_2_description, R.drawable.hotel_mandarin_oriental_barcelona));
+        hotel.add(new Words(R.string.barcelona_hotel_3_name, R.string.barcelona_hotel_3_description, R.drawable.hotel_arts_barcelona));
+        hotel.add(new Words(R.string.barcelona_hotel_4_name, R.string.barcelona_hotel_4_description, R.drawable.hotel_miramar_barcelona));
+        hotel.add(new Words(R.string.barcelona_hotel_5_name, R.string.barcelona_hotel_5_description, R.drawable.hotel_w_barcelona));
 
         WordAdapter listAdapter = new WordAdapter(getActivity(), hotel);
 
