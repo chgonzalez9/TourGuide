@@ -32,11 +32,11 @@ public class MadridMuseumFragment extends Fragment {
         View rootView = inflater.inflate(R.layout.category_list, container, false);
 
         ArrayList<Words> museum = new ArrayList<>();
-        museum.add(new Words(R.string.madrid_museum_1_name, R.string.madrid_museum_1_description, R.drawable.museo_del_prado));
-        museum.add(new Words(R.string.madrid_museum_2_name, R.string.madrid_museum_2_description, R.drawable.thyssen_madrid));
-        museum.add(new Words(R.string.madrid_museum_3_name, R.string.madrid_museum_3_description, R.drawable.museo_reina_sofia));
-        museum.add(new Words(R.string.madrid_museum_4_name, R.string.madrid_museum_4_description, R.drawable.madrid_museo_arqueologico));
-        museum.add(new Words(R.string.madrid_museum_5_name, R.string.madrid_museum_5_description, R.drawable.lope_de_vega));
+        museum.add(new Words(R.string.madrid_museum_1_name, R.string.madrid_museum_1_description));
+        museum.add(new Words(R.string.madrid_museum_2_name, R.string.madrid_museum_2_description));
+        museum.add(new Words(R.string.madrid_museum_3_name, R.string.madrid_museum_3_description));
+        museum.add(new Words(R.string.madrid_museum_4_name, R.string.madrid_museum_4_description));
+        museum.add(new Words(R.string.madrid_museum_5_name, R.string.madrid_museum_5_description));
 
         WordAdapter listAdapter = new WordAdapter(getActivity(), museum);
 

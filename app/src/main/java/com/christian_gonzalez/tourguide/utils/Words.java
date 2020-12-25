@@ -4,14 +4,19 @@ import android.graphics.drawable.Drawable;
 
 public class Words {
 
-    private int mTittle;
-    private int mDescription;
+    private final int mTittle;
+    private final int mDescription;
     private int mItemIcon;
 
     public Words(int Tittle, int Description, int ItemIcon) {
         mTittle = Tittle;
         mDescription = Description;
         mItemIcon = ItemIcon;
+    }
+
+    public Words(int Tittle, int Description) {
+        mTittle = Tittle;
+        mDescription = Description;
     }
 
     public int getDefaultTittle() {
