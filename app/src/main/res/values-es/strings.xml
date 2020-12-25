@@ -23,4 +23,8 @@
     <string name="madrid_hotel_3_description">Barrio exclusivo con restaurantes y tiendas en la Milla de Oro, además de museos de arte clásico.</string>
     <string name="madrid_hotel_4_description">Núcleo cultural con el antiguo barrio literario, Museo Thyssen‑Bornemisza y cafeterías en plaza de Santa Ana.</string>
     <string name="madrid_hotel_5_description">Majestuosa zona residencial, arte en el Museo Sorolla, tapas en la plaza de Olavide y discotecas en Almagro.</string>
+    <string name="madrid_monument_4_description">La Puerta del Sol es una plaza de la ciudad española de Madrid. En ella se encuentra desde 1950 el denominado Kilómetro Cero de las carreteras radiales del país.</string>
+    <string name="madrid_monument_5_name">Palacio Real de Madrid</string>
+    <string name="madrid_museum_5_name">Casa-Museo de Lope de Vega</string>
+    <string name="madrid_museum_2_name">Museo Nacional Thyssen-Bornemisza</string>
 </resources>

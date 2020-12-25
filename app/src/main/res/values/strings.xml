@@ -68,38 +68,38 @@
     <string name="madrid_hotel_5_name" translatable="false">Hotel Santo Mauro, Autograph Collection</string>
     <string name="madrid_hotel_5_description">Embassy district with global fine dining, vintage metro station Andén 0 and Sorolla Museum paintings.</string>
 
-    <string name="madrid_restaurant_1_name">Ástor gastro place</string>
-    <string name="madrid_restaurant_1_description">Calle del Almendro, 9, 28005</string>
+    <string name="madrid_restaurant_1_name" translatable="false">Ástor gastro place</string>
+    <string name="madrid_restaurant_1_description" translatable="false">Calle del Almendro, 9, 28005</string>
     <string name="madrid_restaurant_2_name" translatable="false">Ramón Freixa</string>
-    <string name="madrid_restaurant_2_description">Calle de Claudio Coello, 67, 28001</string>
+    <string name="madrid_restaurant_2_description" translatable="false">Calle de Claudio Coello, 67, 28001</string>
     <string name="madrid_restaurant_3_name" translatable="false">DSTAgE</string>
-    <string name="madrid_restaurant_3_description">Calle de Regueros, 8, 28004</string>
+    <string name="madrid_restaurant_3_description" translatable="false">Calle de Regueros, 8, 28004</string>
     <string name="madrid_restaurant_4_name" translatable="false">CEBO</string>
-    <string name="madrid_restaurant_4_description">Carrera de S. Jerónimo, 34, 28014</string>
+    <string name="madrid_restaurant_4_description" translatable="false">Carrera de S. Jerónimo, 34, 28014</string>
     <string name="madrid_restaurant_5_name" translatable="false">Restaurante Ático</string>
-    <string name="madrid_restaurant_5_description">Calle del Marqués de Valdeiglesias, 1, 28004</string>
+    <string name="madrid_restaurant_5_description" translatable="false">Calle del Marqués de Valdeiglesias, 1, 28004</string>
 
-    <string name="madrid_museum_1_name"></string>
-    <string name="madrid_museum_1_description"></string>
-    <string name="madrid_museum_2_name"></string>
-    <string name="madrid_museum_2_description"></string>
-    <string name="madrid_museum_3_name"></string>
-    <string name="madrid_museum_3_description"></string>
-    <string name="madrid_museum_4_name"></string>
-    <string name="madrid_museum_4_description"></string>
-    <string name="madrid_museum_5_name"></string>
-    <string name="madrid_museum_5_description"></string>
+    <string name="madrid_museum_1_name" translatable="false">Museo Nacional del Prado</string>
+    <string name="madrid_museum_1_description" translatable="false">Calle de Ruiz de Alarcón, 23, 28014</string>
+    <string name="madrid_museum_2_name">Thyssen-Bornemisza Museum</string>
+    <string name="madrid_museum_2_description" translatable="false">Paseo del Prado, 8, 28014</string>
+    <string name="madrid_museum_3_name" translatable="false">Museo Nacional Centro de Arte Reina Sofía</string>
+    <string name="madrid_museum_3_description" translatable="false">Calle de Santa Isabel, 52, 28012</string>
+    <string name="madrid_museum_4_name" translatable="false">Museo Arqueológico Nacional</string>
+    <string name="madrid_museum_4_description" translatable="false">Calle de Serrano, 13, 28001</string>
+    <string name="madrid_museum_5_name">House-Museum of Lope de Vega</string>
+    <string name="madrid_museum_5_description" translatable="false">Calle de Cervantes, 11, 28014</string>
 
-    <string name="madrid_monument_1_name"></string>
-    <string name="madrid_monument_1_description"></string>
-    <string name="madrid_monument_2_name"></string>
-    <string name="madrid_monument_2_description"></string>
-    <string name="madrid_monument_3_name"></string>
-    <string name="madrid_monument_3_description"></string>
-    <string name="madrid_monument_4_name"></string>
-    <string name="madrid_monument_4_description"></string>
-    <string name="madrid_monument_5_name"></string>
-    <string name="madrid_monument_5_description"></string>
+    <string name="madrid_monument_1_name" translatable="false">Parque de El Retiro</string>
+    <string name="madrid_monument_1_description" translatable="false">Plaza de la Independencia, 7, 28001</string>
+    <string name="madrid_monument_2_name" translatable="false">Templo de Debod</string>
+    <string name="madrid_monument_2_description" translatable="false">Calle de Ferraz, 1, 28008</string>
+    <string name="madrid_monument_3_name" translatable="false">Teleférico en Rosales</string>
+    <string name="madrid_monument_3_description" translatable="false">Paseo del Pintor Rosales, s/n, 28008</string>
+    <string name="madrid_monument_4_name" translatable="false">Puerta del Sol</string>
+    <string name="madrid_monument_4_description">Puerta del Sol is a square in the Spanish city of Madrid. The so-called Kilometer Zero of the countries radial highways has been located there since 1950.</string>
+    <string name="madrid_monument_5_name">Royal Palace of Madrid</string>
+    <string name="madrid_monument_5_description" translatable="false">Calle de Bailén, s/n, 28071</string>
 
     <string name="barcelona_hotel_1_name"></string>
     <string name="barcelona_hotel_1_description"></string>

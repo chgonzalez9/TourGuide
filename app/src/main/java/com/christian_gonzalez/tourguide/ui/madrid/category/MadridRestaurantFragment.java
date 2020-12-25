@@ -34,6 +34,11 @@ public class MadridRestaurantFragment extends Fragment {
         View rootView = inflater.inflate(R.layout.category_list, container, false);
 
         ArrayList<Words> restaurant = new ArrayList<>();
+        restaurant.add(new Words(R.string.madrid_restaurant_1_name, R.string.madrid_restaurant_1_description, R.drawable.astor_gastro_place));
+        restaurant.add(new Words(R.string.madrid_restaurant_2_name, R.string.madrid_restaurant_2_description, R.drawable.ramon_freixa));
+        restaurant.add(new Words(R.string.madrid_restaurant_3_name, R.string.madrid_restaurant_3_description, R.drawable.dstage));
+        restaurant.add(new Words(R.string.madrid_restaurant_4_name, R.string.madrid_restaurant_4_description, R.drawable.cebo));
+        restaurant.add(new Words(R.string.madrid_restaurant_5_name, R.string.madrid_restaurant_5_description, R.drawable.restaurante_atico));
 
         WordAdapter listAdapter = new WordAdapter(getActivity(), restaurant);
 
