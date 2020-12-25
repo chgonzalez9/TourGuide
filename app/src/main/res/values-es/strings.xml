@@ -18,4 +18,9 @@
     <string name="london_restaurant_3_description">Cocina Moderna Europea \\n Strand, London WC2R 0EU</string>
     <string name="london_restaurant_4_description">Cocina Moderna Europea \\n First Floor, One, 10 New Change, Bread St, London EC4M 9AJ</string>
     <string name="london_restaurant_5_description">Cocina Japonesa \\n 37 Charlotte St, Fitzrovia, London W1T 1RR</string>
+    <string name="madrid_hotel_1_description">" Área alrededor del enorme parque El Retiro, con elegantes hoteles y restaurantes, además de obras maestras en el Prado."</string>
+    <string name="madrid_hotel_2_description">Concurrida zona céntrica alrededor de la Puerta del Sol, con grandes almacenes, bares de tapas y discotecas.</string>
+    <string name="madrid_hotel_3_description">Barrio exclusivo con restaurantes y tiendas en la Milla de Oro, además de museos de arte clásico.</string>
+    <string name="madrid_hotel_4_description">Núcleo cultural con el antiguo barrio literario, Museo Thyssen‑Bornemisza y cafeterías en plaza de Santa Ana.</string>
+    <string name="madrid_hotel_5_description">Majestuosa zona residencial, arte en el Museo Sorolla, tapas en la plaza de Olavide y discotecas en Almagro.</string>
 </resources>

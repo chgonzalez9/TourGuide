@@ -57,27 +57,27 @@
     <string name="london_monuments_5_name" translatable="false">Buckingham Palace</string>
     <string name="london_monuments_5_description" translatable="false">Westminster, London SW1A 1AA</string>
 
-    <string name="madrid_hotel_1_name"></string>
-    <string name="madrid_hotel_1_description"></string>
-    <string name="madrid_hotel_2_name"></string>
-    <string name="madrid_hotel_2_description"></string>
-    <string name="madrid_hotel_3_name"></string>
-    <string name="madrid_hotel_3_description"></string>
-    <string name="madrid_hotel_4_name"></string>
-    <string name="madrid_hotel_4_description"></string>
-    <string name="madrid_hotel_5_name"></string>
-    <string name="madrid_hotel_5_description"></string>
+    <string name="madrid_hotel_1_name" translatable="false">Mandarin Oriental Ritz</string>
+    <string name="madrid_hotel_1_description">Area around huge El Retiro Park, with stylish hotels and restaurants, plus masterpieces at the Prado.</string>
+    <string name="madrid_hotel_2_name" translatable="false">B&amp;B Hotel</string>
+    <string name="madrid_hotel_2_description">Busy central area around Puerta del Sol plaza, with department stores, tapas bars and nightclubs.</string>
+    <string name="madrid_hotel_3_name" translatable="false">Villa Magna</string>
+    <string name="madrid_hotel_3_description">Overlooking the grand Paseo de la Castellana avenue, this luxe hotel is a 6-minute walk from Ruben Dario metro station and 2 km from the Museo Nacional del Prado.</string>
+    <string name="madrid_hotel_4_name" translatable="false">Urban Hotel GL</string>
+    <string name="madrid_hotel_4_description">Cultural district with live flamenco and beer halls, plus literary history at the Lope de Vega museum.</string>
+    <string name="madrid_hotel_5_name" translatable="false">Hotel Santo Mauro, Autograph Collection</string>
+    <string name="madrid_hotel_5_description">Embassy district with global fine dining, vintage metro station Andén 0 and Sorolla Museum paintings.</string>
 
-    <string name="madrid_restaurant_1_name"></string>
-    <string name="madrid_restaurant_1_description"></string>
-    <string name="madrid_restaurant_2_name"></string>
-    <string name="madrid_restaurant_2_description"></string>
-    <string name="madrid_restaurant_3_name"></string>
-    <string name="madrid_restaurant_3_description"></string>
-    <string name="madrid_restaurant_4_name"></string>
-    <string name="madrid_restaurant_4_description"></string>
-    <string name="madrid_restaurant_5_name"></string>
-    <string name="madrid_restaurant_5_description"></string>
+    <string name="madrid_restaurant_1_name">Ástor gastro place</string>
+    <string name="madrid_restaurant_1_description">Calle del Almendro, 9, 28005</string>
+    <string name="madrid_restaurant_2_name" translatable="false">Ramón Freixa</string>
+    <string name="madrid_restaurant_2_description">Calle de Claudio Coello, 67, 28001</string>
+    <string name="madrid_restaurant_3_name" translatable="false">DSTAgE</string>
+    <string name="madrid_restaurant_3_description">Calle de Regueros, 8, 28004</string>
+    <string name="madrid_restaurant_4_name" translatable="false">CEBO</string>
+    <string name="madrid_restaurant_4_description">Carrera de S. Jerónimo, 34, 28014</string>
+    <string name="madrid_restaurant_5_name" translatable="false">Restaurante Ático</string>
+    <string name="madrid_restaurant_5_description">Calle del Marqués de Valdeiglesias, 1, 28004</string>
 
     <string name="madrid_museum_1_name"></string>
     <string name="madrid_museum_1_description"></string>
