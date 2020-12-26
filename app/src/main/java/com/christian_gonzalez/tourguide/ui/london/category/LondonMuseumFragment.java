@@ -32,11 +32,11 @@ public class LondonMuseumFragment extends Fragment {
         View rootView = inflater.inflate(R.layout.category_list, container, false);
 
         ArrayList<Words> museum = new ArrayList<>();
-        museum.add(new Words(R.string.london_museum_1_name, R.string.london_museum_1_description, R.drawable.british_museum_london));
-        museum.add(new Words(R.string.london_museum_2_name, R.string.london_museum_2_description, R.drawable.national_gallery_london));
-        museum.add(new Words(R.string.london_museum_3_name, R.string.london_museum_3_description, R.drawable.design_museum_london));
-        museum.add(new Words(R.string.london_museum_4_name, R.string.london_museum_4_description, R.drawable.churchill_war_rooms));
-        museum.add(new Words(R.string.london_museum_5_name, R.string.london_museum_5_description, R.drawable.charles_dickens_museum_london));
+        museum.add(new Words(R.string.london_museum_1_name, R.string.london_museum_1_description));
+        museum.add(new Words(R.string.london_museum_2_name, R.string.london_museum_2_description));
+        museum.add(new Words(R.string.london_museum_3_name, R.string.london_museum_3_description));
+        museum.add(new Words(R.string.london_museum_4_name, R.string.london_museum_4_description));
+        museum.add(new Words(R.string.london_museum_5_name, R.string.london_museum_5_description));
 
         WordAdapter listAdapter = new WordAdapter(getActivity(), museum);
 
